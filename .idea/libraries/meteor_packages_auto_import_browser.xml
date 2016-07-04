@@ -128,8 +128,10 @@
         <item url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.0.5_1/web.browser/multi-file-caching-compiler.js" />
         <item url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.0.5_1/web.browser/caching-compiler.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/builtins.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/sacha_spin/2.3.1/web.browser/packages/sacha_spin.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/preamble.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/domrange.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/sacha_spin/2.3.1/web.browser/packages/sacha_spin/lib/spinner.css" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.9/web.browser/tokens.js" />
         <item url="file://$USER_HOME$/.meteor/packages/check/1.2.3/web.browser/match.js" />
         <item url="file://$USER_HOME$/.meteor/packages/check/1.2.3/web.browser/isPlainObject.js" />
@@ -294,8 +296,10 @@
       <root url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.0.5_1/web.browser/multi-file-caching-compiler.js" />
       <root url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.0.5_1/web.browser/caching-compiler.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/builtins.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/sacha_spin/2.3.1/web.browser/packages/sacha_spin.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/preamble.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/domrange.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/sacha_spin/2.3.1/web.browser/packages/sacha_spin/lib/spinner.css" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.9/web.browser/tokens.js" />
       <root url="file://$USER_HOME$/.meteor/packages/check/1.2.3/web.browser/match.js" />
       <root url="file://$USER_HOME$/.meteor/packages/check/1.2.3/web.browser/isPlainObject.js" />
