@@ -10,12 +10,14 @@ Template.postSubmit.events({
       title: $(e.target).find('[name=title]').val()
     };
 
-
     Meteor.call('postInsert', post, (error, result) => {
       if (error)
         return alert(error.reason);
 
-      Router.go('postPage', {_id : result._id});
+      if (result.postExist)
+        alert('This link has already been posted.');
+
+      Router.go('postPage', {_id: result._id});
     });
   }
 });
