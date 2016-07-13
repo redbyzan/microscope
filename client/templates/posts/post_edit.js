@@ -34,7 +34,7 @@ Template.postEdit.events({
     Posts.update(currentPostId, {$set: postProperties}, function (err) {
       if (err) {
         console.log("edit error is ", err);
-        throwError(err.reason);
+        Errors.throw(err.reason);
       }
       else
         Router.go('postPage', {_id: currentPostId});
